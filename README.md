@@ -1,6 +1,4 @@
 # jupyter_walkthru
-Fast.AI walkthrough of Jupyter Notebooks 
+Walkthrough of Jupyter Notebooks 
 
-This is an example repo as created by Jeremy Howard during the following Fast.AI video.
-
-(https://www.youtube.com/watch?v=0pWjZByJ3Lk)
+Get started with Jupyter Notebooks both locally and using online services such Google Colab, Kaggle Notebooks and Paperspace Gradio.  
